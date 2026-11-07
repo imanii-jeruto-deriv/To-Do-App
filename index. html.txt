@@ -1,0 +1,6 @@
+todo-app/
+│
+├── index.html      ← main page
+├── style.css       ← styling
+├── script.js       ← logic
+└── README.md       ← explanation
